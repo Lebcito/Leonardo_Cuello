@@ -1,0 +1,22 @@
+.custom-carousel .carousel-item img {
+    height: 700px;
+    object-fit: cover;
+}
+
+.glasses_box figure img {
+    width: 400px;
+    height: 450px;
+}
+
+h3{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+input.Contactanos, input.contactanoss, input.Contactanosmess {
+    width: 300px; /* Ajusta este valor a tu preferencia para el ancho */
+    height: 50px; /* Ajusta este valor a tu preferencia para el alto */
+}
